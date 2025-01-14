@@ -4,7 +4,7 @@
  * The tree uses linked lists to store child nodes, sorted in ascending order by character.
  */
 
-#include "hw11.h"
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
